@@ -11,4 +11,12 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 // convert number to string
 let score2 = 44
 let scoreStr = String(score2)
-console.log("scoreStr:", scoreStr, typeof scoreStr);
+// console.log("scoreStr:", scoreStr, typeof scoreStr);
+
+// -----------------------------xx-------------------------------------------------
+                            //   Operations
+// -----------------------------xx-------------------------------------------------
+
+let value = 3
+let negValue = -value
+ console.log("negValue:", negValue);
