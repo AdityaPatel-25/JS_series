@@ -13,7 +13,6 @@ console.log(myTotal); // 15
 //     name: 'Laptop',
 //     price: 1000,
 //     discount: 0.1
-
 // };
 
 // }
